@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/main.b79df2c9.chunk.js",
-    "main.js.map": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/main.b79df2c9.chunk.js.map",
+    "main.js": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/main.75589008.chunk.js",
+    "main.js.map": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/main.75589008.chunk.js.map",
     "runtime-main.js": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/runtime-main.89b81221.js",
     "runtime-main.js.map": "https://ercoderrahul.github.io/csb-1ezbuv/static/js/runtime-main.89b81221.js.map",
     "index.html": "https://ercoderrahul.github.io/csb-1ezbuv/index.html",
-    "precache-manifest.f0cd7dcd2084d9ae331934a85f943157.js": "https://ercoderrahul.github.io/csb-1ezbuv/precache-manifest.f0cd7dcd2084d9ae331934a85f943157.js",
+    "precache-manifest.8f5cf2b4b29fcb1e77b957f752038925.js": "https://ercoderrahul.github.io/csb-1ezbuv/precache-manifest.8f5cf2b4b29fcb1e77b957f752038925.js",
     "service-worker.js": "https://ercoderrahul.github.io/csb-1ezbuv/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.89b81221.js",
-    "static/js/main.b79df2c9.chunk.js"
+    "static/js/main.75589008.chunk.js"
   ]
 }
